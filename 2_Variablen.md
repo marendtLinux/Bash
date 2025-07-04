@@ -164,7 +164,7 @@ echo ${name^^} #alle Buchstaben groß schreiben
 ```
 
 
-## 2.4 Quotings und Kommando-Substitution ##################
+## 2.4 Quotings und Kommando-Substitution
 
 Quoting
 ```bash
@@ -296,14 +296,14 @@ exportiertr Variablen ansehen
 export 
 ```
 
-####################### 2.7 Umgebungsvariablen eines Prozesses ###########################################
+## 2.7 Umgebungsvariablen eines Prozesses
 
 ins Home-Verzeichnis wechseln
 ```bash
 cd
 ```
 
-####################### 2.8 Shell-Variablen ###########################################
+## 2.8 Shell-Variablen
 
 #vollständig ab S. 169
 
@@ -312,7 +312,7 @@ Array mit allen Exit-Codes der in einer Pipe ausgeführten Kommandos
 echo $PIPESTATUS
 ``` 
  
-####################### 2.9 Automatische Variablen der Shell ###########################################
+## 2.9 Automatische Variablen der Shell
 
 Name des Shellskripts
 ```bash
