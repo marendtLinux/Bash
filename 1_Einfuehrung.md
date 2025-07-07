@@ -1,5 +1,3 @@
-!/bin/bash
-
 Benutzernamen ausgeben
 ```bash
 whoami
